@@ -1,44 +1,43 @@
-<?xml version="1.0"?>
-<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>items</key>
-        <array>
-            <dict>
-                <key>assets</key>
-                <array>
-                    <dict>
-                        <key>kind</key>
-                        <string>https://raw.githubusercontent.com/bitfortune/doc_share_tmp2/master/EXU_resigned.ipa</string>
-                        <key>url</key>
-                        <string>software-package</string>
-                    </dict>
-						<dict>
-						<key>kind</key>
-						<string>display-image</string>
-						<key>url</key>
-						<string>https://github.com/bitfortune/doc_share_tmp2/blob/master/IOSFinal.png</string>
-					</dict>
-					<dict>
-						<key>kind</key>
-						<string>full-size-image</string>
-						<key>url</key>
-						<string>https://github.com/bitfortune/doc_share_tmp2/blob/master/IOSStartFinal.png</string>
-					</dict>
-                </array>
-
-                <key>metadata</key>
-                <dict>
-                    <key>bundle-identifier</key>
-					<string>com.exu.exchange-app-beta</string>
-					<key>bundle-version</key>
-					<string>0.1.0</string>
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
 					<key>kind</key>
-					<string>software</string>
-					<key>title</key>
-					<string>EXUExchangeIOS</string>
-                </dict>
-            </dict>
-        </array>
-    </dict>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/bitfortune/doc_share_tmp2/master/EXU_resigned.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://github.com/bitfortune/doc_share_tmp2/blob/master/IOSFinal.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/bitfortune/doc_share_tmp2/blob/master/IOSStartFinal.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.exu.exchange-app-beta</string>
+				<key>bundle-version</key>
+				<string>0.2.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>ExchangeiOS</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
 </plist>
