@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/bitfortune/doc_share_tmp2/blob/master/IOSFinal.png</string>
+					<string>https://raw.githubusercontent.com/bitfortune/doc_share_tmp2/master/IOSFinal.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/bitfortune/doc_share_tmp2/blob/master/IOSStartFinal.png</string>
+					<string>https://raw.githubusercontent.com/bitfortune/doc_share_tmp2/master/IOSStartFinal.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
